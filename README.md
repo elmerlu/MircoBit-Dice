@@ -8,7 +8,7 @@
 * 開啟 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * 按一下**新專案**
 * 按一下工具齒輪選單下的**擴充功能**
-* 搜索 **https://github.com/elmerlu/makecode-microbit** 並匯出
+* 搜索 **https://github.com/elmerlu/MircoBit-Dice** 並匯出
 
 ## 編輯此專案 ![建立狀態徽章](https://github.com/elmerlu/makecode-microbit/workflows/MakeCode/badge.svg)
 
@@ -16,7 +16,7 @@
 
 * 開啟 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * 按一下**匯入**，然後按一下**匯入 URL**
-* 貼上 **https://github.com/elmerlu/makecode-microbit** 並按一下匯入
+* 貼上 **https://github.com/elmerlu/MircoBit-Dice** 並按一下匯入
 
 ## 預覽程式積木
 
